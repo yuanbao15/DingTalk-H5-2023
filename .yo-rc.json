@@ -1,0 +1,8 @@
+{
+  "generator-dd-application": {
+    "promptValues": {
+      "template": "h5_default",
+      "language": "javascript"
+    }
+  }
+}
